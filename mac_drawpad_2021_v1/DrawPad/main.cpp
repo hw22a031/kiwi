@@ -1,5 +1,6 @@
 #include "DrawPad.hpp"
 #include <math.h>
+//kokoniimasu
 
 void DrawMain()
 {
